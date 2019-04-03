@@ -1,2 +1,1 @@
-# CNN
-Project on Densnet on CIFAR10 
+# CNN Project
