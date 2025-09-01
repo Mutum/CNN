@@ -1,6 +1,4 @@
 
-# Mutum Jagatchandra Singh 
-## Batch - EIP2 Batch 3
 
 Here I am trying to explain below topics as simple as possible. My expectation from readers for now is to have good intuition.
 
